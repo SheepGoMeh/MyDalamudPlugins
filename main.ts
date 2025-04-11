@@ -1,5 +1,6 @@
 const user = "SheepGoMeh";
 const repos = [
+  "Browsingway",
   "VisibilityPlugin",
 ];
 
