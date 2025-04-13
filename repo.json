@@ -33,32 +33,16 @@
   },
   {
     "Author": "SheepGoMeh",
-    "Name": "Visibility",
-    "InternalName": "Visibility",
-    "AssemblyVersion": "1.1.8.3",
-    "Description": "Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
-    "ApplicableVersion": "any",
+    "Name": "VisibilityPlugin",
+    "InternalName": "VisibilityPlugin",
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
-    "Tags": [
-      "Blacklist",
-      "Void",
-      "VoidList",
-      "Ban",
-      "Hide",
-      "Visibility",
-      "QoL"
-    ],
-    "DalamudApiLevel": 12,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Allows you to hide players, pets, chocobos and minions.",
-    "AcceptsFeedback": true,
-    "Changelog": "* Updated plugin for 7.2\n* API 12",
-    "DownloadCount": 1,
-    "LastUpdate": 1744311378,
-    "DownloadLinkInstall": "https://github.com/SheepGoMeh/VisibilityPlugin/releases/download/v1.1.8.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SheepGoMeh/VisibilityPlugin/releases/download/v1.1.8.3/latest.zip"
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "AssemblyVersion": "1.0.1.2",
+    "Changelog": "Changes\n* Changed timer to 20ms\n* Reduced error logging for Release build\n* Added icons to chat for `/voidplayer` and `/voidtargetplayer`\n\nBug fixes\n* Corrected datacenter check for `/voidplayer`",
+    "DownloadCount": 725,
+    "LastUpdate": 1601448743,
+    "DownloadLinkInstall": "https://github.com/SheepGoMeh/VisibilityPlugin/releases/download/1.0.1.2/Visibility.zip",
+    "DownloadLinkUpdate": "https://github.com/SheepGoMeh/VisibilityPlugin/releases/download/1.0.1.2/Visibility.zip"
   }
 ]
