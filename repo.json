@@ -40,7 +40,7 @@
     "DalamudApiLevel": 6,
     "AssemblyVersion": "1.0.1.2",
     "Changelog": "Changes\n* Changed timer to 20ms\n* Reduced error logging for Release build\n* Added icons to chat for `/voidplayer` and `/voidtargetplayer`\n\nBug fixes\n* Corrected datacenter check for `/voidplayer`",
-    "DownloadCount": 740,
+    "DownloadCount": 742,
     "LastUpdate": 1601448743,
     "DownloadLinkInstall": "https://github.com/SheepGoMeh/VisibilityPlugin/releases/download/1.0.1.2/Visibility.zip",
     "DownloadLinkUpdate": "https://github.com/SheepGoMeh/VisibilityPlugin/releases/download/1.0.1.2/Visibility.zip"
